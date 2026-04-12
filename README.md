@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Status](https://img.shields.io/badge/Status-Research-green)
 ![Data](https://img.shields.io/badge/Data-ERA5-orange)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-orange)
 ---
 
 ## 📌 Overview
