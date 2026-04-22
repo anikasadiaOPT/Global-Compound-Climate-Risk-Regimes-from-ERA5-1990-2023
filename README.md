@@ -183,7 +183,7 @@ Contributions, suggestions, and collaborations are welcome.
 ## Author's Reflection
 This project was a significant milestone in my journey into Climate AI. To read about the technical hurdles I overcame, the skills I developed, and my personal experience working with this data, please visit:
 
-[View My Learnings](https://github.com/anikasadiaOPT/Global-Compound-Climate-Risks-Regimes-Analysis/blob/main/LEARNINGS.md))
+[View My Learnings](https://github.com/anikasadiaOPT/Global-Compound-Climate-Risks-Regimes-Analysis/blob/main/LEARNINGS.md)
 
 ## 📬 Contact
 
