@@ -65,7 +65,7 @@ What I have learned during this journey:
 
 Anomalies of SSR:
 
-+<img width="535" height="429" alt="image" src="https://github.com/user-attachments/assets/bf8615a3-d3f8-4791-8902-4ca8ad50d425" />
+<img width="535" height="429" alt="image" src="https://github.com/user-attachments/assets/bf8615a3-d3f8-4791-8902-4ca8ad50d425" />
 
 **The Color LanguageRed Bands (Positive Z-scores)**: These years had significantly higher-than-average solar radiation. This usually indicates very clear skies and low cloud cover. Look at roughly 2022—it has a strong red stripe across almost the entire year.
 
@@ -76,6 +76,10 @@ Anomalies of SSR:
 
 The 2016 "Deep Blue" event represents a record-breaking negative anomaly with intense cloud cover likely linked to a strong El Niño phase. The 1992–1993 cluster reflects the atmospheric "dimming" and global cooling caused by the volcanic aerosols following the Mt. Pinatubo eruption.
 
+<img width="533" height="468" alt="image" src="https://github.com/user-attachments/assets/0e088f1f-f8d1-4f47-8bef-05c99ff71349" />
+Fig: Graph of tp
+
+
 Panel A: The Heatmap | Identification of Temporal Regimes
 Purpose: This graph acts as a "Climate Fingerprint" for a specific location or region over the entire 1990–2023 period.
 
@@ -84,9 +88,24 @@ Function: It is used to visually detect the persistence and recurrence of risk. 
 Scientific Value: It proves that you have successfully removed the seasonal cycle, allowing the reviewer to see purely the interannual variability and long-term anomalies.
 
 
-<img width="533" height="468" alt="image" src="https://github.com/user-attachments/assets/0e088f1f-f8d1-4f47-8bef-05c99ff71349" />
 
 
+Panel B: The Line Plot | Quantification of Statistical Extremes
+Purpose: This provides a High-Resolution Timeline of the most significant anomalies identified in Panel A.
+
+Function: It is used to show the magnitude (Severity) of the Z-scores. While the heatmap shows "when," the line plot (like image_fd4238.png) shows "how much."
+
+Scientific Value: This is the primary evidence for your PC1-Based MCSI. It illustrates the exact peaks (e.g., Z-scores exceeding +3 or -3) that drive the variance in your Principal Component Analysis, making it essential for the statistical "Predictability" part of your paper.
+
+
+
+
+Panel C: The Spatial Map | Geographic Attribution of Risk
+Purpose: This illustrates the Global Footprint of a specific regime at its peak intensity.
+
+Function: It is used to move from a single point to a Global Scale. By plotting a map for a specific timestamp (e.g., January 2016), you can attribute the risk to specific geographical drivers, such as the warming of the Tropical Pacific.
+
+Scientific Value: In a paper on Compound Risk, this map is used to show "Co-location." If you plot a map of Temperature and Precipitation anomalies side-by-side, you can visually demonstrate that the "Risk Regime" is hitting the same countries or agricultural zones simultaneously.
 ## ✨ Closing Note
 
 This dataset analysis forms the backbone of the research, connecting physical climate processes with data-driven insights. Each variable plays a crucial role in understanding compound climate risks, making the study both scientifically grounded and practically relevant.
