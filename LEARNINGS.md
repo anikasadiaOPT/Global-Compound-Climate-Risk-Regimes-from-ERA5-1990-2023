@@ -76,6 +76,17 @@ Anomalies of SSR:
 
 The 2016 "Deep Blue" event represents a record-breaking negative anomaly with intense cloud cover likely linked to a strong El Niño phase. The 1992–1993 cluster reflects the atmospheric "dimming" and global cooling caused by the volcanic aerosols following the Mt. Pinatubo eruption.
 
+Panel A: The Heatmap | Identification of Temporal Regimes
+Purpose: This graph acts as a "Climate Fingerprint" for a specific location or region over the entire 1990–2023 period.
+
+Function: It is used to visually detect the persistence and recurrence of risk. By stacking years against months, you can identify if a "regime" (like the 2016 blue stripe in image_d72070.png) was a short-lived event or a multi-month compound crisis.
+
+Scientific Value: It proves that you have successfully removed the seasonal cycle, allowing the reviewer to see purely the interannual variability and long-term anomalies.
+
+
+<img width="533" height="468" alt="image" src="https://github.com/user-attachments/assets/0e088f1f-f8d1-4f47-8bef-05c99ff71349" />
+
+
 ## ✨ Closing Note
 
 This dataset analysis forms the backbone of the research, connecting physical climate processes with data-driven insights. Each variable plays a crucial role in understanding compound climate risks, making the study both scientifically grounded and practically relevant.
