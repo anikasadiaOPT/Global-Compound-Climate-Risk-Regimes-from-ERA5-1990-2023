@@ -78,6 +78,11 @@ The 2016 "Deep Blue" event represents a record-breaking negative anomaly with in
 
 <img width="533" height="468" alt="image" src="https://github.com/user-attachments/assets/0e088f1f-f8d1-4f47-8bef-05c99ff71349" />
 Fig: Graph of tp
+<img width="549" height="463" alt="image" src="https://github.com/user-attachments/assets/71265ba1-0968-42c7-af74-766c3135548e" />
+Fig: Graph of ssr
+
+<img width="533" height="462" alt="image" src="https://github.com/user-attachments/assets/c7d42cd1-8e84-4ea5-9494-ab3f6b37fdae" />
+Fig: Graph of si10
 
 
 Panel A: The Heatmap | Identification of Temporal Regimes
