@@ -120,12 +120,11 @@ Because Cos  is used to move the curve left/right along the X-axis.
 
 Why Temporal Embedding? Because after December, when it comes to January, it assumes a new start. But in the real world, December is very close to January.
 
-Build 
+## Attention-based Feature Fusion 
 
-
-
-
-
+For example, when the temperature is high and the rain is low, that should be focused on because their  compound interaction influences the regime analysis.   
+The Attention mechanism:
+<img width="609" height="121" alt="image" src="https://github.com/user-attachments/assets/6e512434-868c-4002-ac7e-0406d47d1f3b" />
 
 
 
