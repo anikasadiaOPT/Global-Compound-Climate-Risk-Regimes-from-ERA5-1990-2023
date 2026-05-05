@@ -111,6 +111,24 @@ Purpose: This illustrates the Global Footprint of a specific regime at its peak 
 Function: It is used to move from a single point to a Global Scale. By plotting a map for a specific timestamp (e.g., January 2016), you can attribute the risk to specific geographical drivers, such as the warming of the Tropical Pacific.
 
 Scientific Value: In a paper on Compound Risk, this map is used to show "Co-location." If you plot a map of Temperature and Precipitation anomalies side-by-side, you can visually demonstrate that the "Risk Regime" is hitting the same countries or agricultural zones simultaneously.
+
+
+
+Before applying Unsupervised ML, we have to use Temporal Embedding to map months onto a circle using sine and cos functions.
+Because Cos  is used to move the curve left/right along the X-axis.
+        Sine is used to move the curve up/down along the Y-axis.
+
+Why Temporal Embedding? Because after December, when it comes to January, it assumes a new start. But in the real world, December is very close to January.
+
+Build 
+
+
+
+
+
+
+
+
 ## ✨ Closing Note
 
 This dataset analysis forms the backbone of the research, connecting physical climate processes with data-driven insights. Each variable plays a crucial role in understanding compound climate risks, making the study both scientifically grounded and practically relevant.
